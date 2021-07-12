@@ -1,4 +1,6 @@
 ---
+gre_id: "882c5522a4"
+aliases: [/id/882c5522a4]
 title: "Tomb Garden with Monument of Julia Mutiana"
 date: 2020-07-14T17:06:21-04:00
 latlon: [ 43.539561, 16.483426 ]

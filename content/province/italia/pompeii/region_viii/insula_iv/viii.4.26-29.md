@@ -1,4 +1,6 @@
 ---
+gre_id: "9c9086c4dd"
+aliases: [/id/9c9086c4dd]
 title: "VIII.4.26-29. Bakery and House of Felix"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

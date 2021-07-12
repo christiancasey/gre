@@ -1,4 +1,6 @@
 ---
+gre_id: "2749debd19"
+aliases: [/id/2749debd19]
 article-type: "province"
 title: "Britannia"
 date: 2020-07-07T12:53:41-04:00

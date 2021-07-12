@@ -1,4 +1,6 @@
 ---
+gre_id: "715633921e"
+aliases: [/id/715633921e]
 title: "The anonymous sanctuary, Dar Lachheb"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

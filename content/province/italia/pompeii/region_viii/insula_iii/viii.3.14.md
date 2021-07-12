@@ -1,4 +1,6 @@
 ---
+gre_id: "5c8aada6d5"
+aliases: [/id/5c8aada6d5]
 title: "VIII.3.14. House of Queen Carolina; House of Adonis"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

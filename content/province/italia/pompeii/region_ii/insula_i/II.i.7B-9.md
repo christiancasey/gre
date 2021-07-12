@@ -1,4 +1,6 @@
 ---
+gre_id: "5614a0cdf5"
+aliases: [/id/5614a0cdf5]
 article-type: "province"
 title: "II.i.7B/8-9"
 date: 2021-02-19T17:25:51Z

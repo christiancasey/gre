@@ -1,4 +1,6 @@
 ---
+gre_id: "9ec06fbe5b"
+aliases: [/id/9ec06fbe5b]
 title: "House of the Two Fountains (Maison aux deux Fontaines)"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

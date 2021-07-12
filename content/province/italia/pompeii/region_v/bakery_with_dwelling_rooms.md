@@ -1,4 +1,6 @@
 ---
+gre_id: "2296429b74"
+aliases: [/id/2296429b74]
 title: "Bakery with Dwelling Rooms (V.iv.1.)"
 date: 2020-09-29T12:07:01-04:00
 latlon: [ 40.74941, 14.485429 ]

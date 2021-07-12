@@ -1,4 +1,6 @@
 ---
+gre_id: "33319891be"
+aliases: [/id/33319891be]
 title: "House of the Bucrania"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.752743867143124, 12.286672797879733 ]

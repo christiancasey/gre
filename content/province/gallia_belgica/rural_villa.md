@@ -1,4 +1,6 @@
 ---
+gre_id: "f90a828059"
+aliases: [/id/f90a828059]
 title: "Rural Villa"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 49.462147, 8.165507 ]

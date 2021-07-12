@@ -1,4 +1,6 @@
 ---
+gre_id: "84fd82106c"
+aliases: [/id/84fd82106c]
 article-type: "province"
 title: "I.3.20/22"
 date: 2021-03-14T17:45:11Z

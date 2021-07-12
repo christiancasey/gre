@@ -1,4 +1,6 @@
 ---
+gre_id: "688915e49a"
+aliases: [/id/688915e49a]
 title: "Casa con Giardino"
 date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]

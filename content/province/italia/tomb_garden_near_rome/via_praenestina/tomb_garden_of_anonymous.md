@@ -1,4 +1,6 @@
 ---
+gre_id: "bb39f8e907"
+aliases: [/id/bb39f8e907]
 title: "Tomb Garden of Anonymous"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.649151, 13.194182 ]

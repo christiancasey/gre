@@ -1,4 +1,6 @@
 ---
+gre_id: "49e4c2d1b1"
+aliases: [/id/49e4c2d1b1]
 title: "II.6 The Great Palaestra"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]

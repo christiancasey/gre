@@ -1,4 +1,6 @@
 ---
+gre_id: "c63589613b"
+aliases: [/id/c63589613b]
 title: "Edifice on St. Antoine’s Mound"
 date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]

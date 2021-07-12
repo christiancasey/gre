@@ -1,4 +1,6 @@
 ---
+gre_id: "45c08cc1e1"
+aliases: [/id/45c08cc1e1]
 title: "Imperial Residence at Batnae"
 date: 2020-10-08T10:30-04:00
 latlon: [ 36.976075, 38.424238 ]

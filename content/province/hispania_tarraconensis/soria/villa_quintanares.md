@@ -1,4 +1,6 @@
 ---
+gre_id: "3fc5921f62"
+aliases: [/id/3fc5921f62]
 title: "Villa los Quintanares"
 date: 2020-11-2
 latlon: [ 0, 0 ]

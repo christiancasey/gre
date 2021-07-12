@@ -1,4 +1,6 @@
 ---
+gre_id: "dcb105bb0f"
+aliases: [/id/dcb105bb0f]
 title: "Jericho Herodian Third Palace Ionic Peristyle"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853621, 35.434882 ]

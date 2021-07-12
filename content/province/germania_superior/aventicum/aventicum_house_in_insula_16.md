@@ -1,4 +1,6 @@
 ---
+gre_id: "1d62991501"
+aliases: [/id/1d62991501]
 title: "House in Insula 16 in Aventicum"
 date: 2020-07-15T10:24:03-04:00
 latlon: [ 46.88008, 7.040710 ]

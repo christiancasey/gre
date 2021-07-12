@@ -1,4 +1,6 @@
 ---
+gre_id: "c8e6b21444"
+aliases: [/id/c8e6b21444]
 title: "House of the Ocean Gods"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]

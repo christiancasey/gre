@@ -1,4 +1,6 @@
 ---
+gre_id: "da50529abc"
+aliases: [/id/da50529abc]
 title: "Tomb Garden of M. Aurel(ius) Alexander"
 date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]

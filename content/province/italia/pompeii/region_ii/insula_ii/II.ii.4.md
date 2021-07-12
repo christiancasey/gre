@@ -1,4 +1,6 @@
 ---
+gre_id: "a6b8558341"
+aliases: [/id/a6b8558341]
 article-type: "province"
 title: "II.ii.4"
 date: 2021-03-06T14:54:53Z

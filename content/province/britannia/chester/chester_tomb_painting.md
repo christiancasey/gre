@@ -1,4 +1,6 @@
 ---
+gre_id: "fd2163e5d2"
+aliases: [/id/fd2163e5d2]
 title: "Tomb Painting in Chester"
 date: 2020-07-08T08:58:47-04:00
 latlon: [ 53.1884, -2.8877 ]

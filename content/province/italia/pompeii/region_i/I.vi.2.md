@@ -1,4 +1,6 @@
 ---
+gre_id: "032ed2076c"
+aliases: [/id/032ed2076c]
 title: "I.6.2 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus"
 date: 2020-08-05T19:15:13-04:00
 latlon: [ 40.74941, 14.485429 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "f5c9441f40"
+aliases: [/id/f5c9441f40]
 title: "Funerary Grove of Q. Cervonius Chryseros"
 date: 2020-11-10T12:00:02-05:00
 latlon: [ 45.77, 13.3748 ]

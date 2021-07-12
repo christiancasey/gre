@@ -1,4 +1,6 @@
 ---
+gre_id: "cf1d9c7584"
+aliases: [/id/cf1d9c7584]
 title: "The garden in front of the Piazza d'Oro (Fig. 1, n. 19)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.941305, 12.778279 ]

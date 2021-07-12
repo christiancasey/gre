@@ -1,4 +1,6 @@
 ---
+gre_id: "b5702d8da8"
+aliases: [/id/b5702d8da8]
 title: "Quarter of Saint-Florent – House A1, House of Clodius"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

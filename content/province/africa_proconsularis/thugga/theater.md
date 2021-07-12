@@ -1,4 +1,6 @@
 ---
+gre_id: "43d2397bce"
+aliases: [/id/43d2397bce]
 title: "Theater (Theâtre)"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

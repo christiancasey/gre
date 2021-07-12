@@ -1,4 +1,6 @@
 ---
+gre_id: "38d5f876b8"
+aliases: [/id/38d5f876b8]
 title: "La Villa des Rouaux"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.118135, 6.174155 ]

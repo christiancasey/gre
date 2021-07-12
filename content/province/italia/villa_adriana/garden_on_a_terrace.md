@@ -1,4 +1,6 @@
 ---
+gre_id: "5f8c69dd54"
+aliases: [/id/5f8c69dd54]
 title: "Garden on a terrace (Fig. 1, n. 15)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.942634, 12.771788 ]

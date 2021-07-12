@@ -1,4 +1,6 @@
 ---
+gre_id: "b864bdc866"
+aliases: [/id/b864bdc866]
 title: "House of the Tizerine Cape (Maison du Cap Tizerine)"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]

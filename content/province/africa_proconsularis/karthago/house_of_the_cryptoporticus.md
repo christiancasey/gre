@@ -1,4 +1,6 @@
 ---
+gre_id: "98c1ec1c8c"
+aliases: [/id/98c1ec1c8c]
 title: "House of the Cryptoporticus (Maison du Cryptoportique)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.857260, 10.331488 ]

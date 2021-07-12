@@ -1,0 +1,44 @@
+{{- if len .Summary }}
+	<article class="list__item post">
+		{{- if .Params.thumbnail }}
+		<figure class="list__thumbnail">
+			<a href="{{ .Permalink }}">
+				<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}" />
+			</a>
+		</figure>
+		{{- end }}
+		<header class="list__header">
+		  <!-- breadcrumbs -->
+		  <div class='smallcrumbs'>
+			  {{ $crumbs := replaceRE "_" " " (path.Dir .Path) }}
+				{{ replaceRE "province/" " " $crumbs }}
+		  </div>
+			<h3 class="list__title post__title ">
+				<a href="{{ .RelPermalink }}" rel="bookmark">
+				{{ .Title }}
+				</a>
+			</h3>
+			{{- with .Params.lead }}
+			<p class="list__lead post__lead">{{ . }}</p>
+			{{- end }}
+			{{ with partial "post_meta.html" . -}}
+			<div class="list__meta meta">{{ . }}</div>
+			{{- end }}
+		</header>
+
+		<div class="content list__excerpt post__content clearfix">
+			<!-- up to 300 characters, starting with the Garden Description -->
+			{{ $summary_parts := split .Summary "Garden Description" }}
+			{{ $summary_excerpt := index $summary_parts 1 }}
+			{{ substr $summary_excerpt 0 180 }}...
+		</div>
+
+		{{- if .Site.Params.readmore }}
+		{{- if .Truncated }}
+		<div class="list__footer clearfix">
+			<a class="list__footer-readmore btn" href="{{ .RelPermalink }}">{{ T "read_more" }}</a>
+		</div>
+		{{- end }}
+		{{- end }}
+	</article>
+{{- end }}

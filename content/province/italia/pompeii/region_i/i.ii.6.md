@@ -1,4 +1,6 @@
 ---
+gre_id: "abfb7480d1"
+aliases: [/id/abfb7480d1]
 article-type: "province"
 title: "I.2.6"
 date: 2021-03-13T16:21:43Z

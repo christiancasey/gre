@@ -1,4 +1,6 @@
 ---
+gre_id: "da916f5290"
+aliases: [/id/da916f5290]
 article-type: "province"
 title: "The Garden of the Julio-Claudian Domus"
 date: 2021-04-04T21:57:59+02:00

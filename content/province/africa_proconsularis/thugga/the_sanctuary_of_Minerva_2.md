@@ -1,4 +1,6 @@
 ---
+gre_id: "df438870c2"
+aliases: [/id/df438870c2]
 title: "The sanctuary of Minerva 2"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "d641fc022c"
+aliases: [/id/d641fc022c]
 title: "Villa del Cortijo de los Vila"
 date: 2020-09-24T13:00:00-04:00
 latlon: [ 37.216462, -4.657951 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "12538be0d9"
+aliases: [/id/12538be0d9]
 title: "House of Hylas, Central District (Maison de Castorius, Quartier central)"
 date: 2020-12-20T10:00:00-04:00
 latlon: [ 36.317690, 5.736683 ]

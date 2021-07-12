@@ -1,4 +1,6 @@
 ---
+gre_id: "66d993c8d4"
+aliases: [/id/66d993c8d4]
 title: "The sanctuary of Caelestis"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

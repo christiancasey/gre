@@ -1,4 +1,6 @@
 ---
+gre_id: "0f38629b65"
+aliases: [/id/0f38629b65]
 title: "II.5 Large Vineyard"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

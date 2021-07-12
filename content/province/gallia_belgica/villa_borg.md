@@ -1,4 +1,6 @@
 ---
+gre_id: "3b6b0e6ae7"
+aliases: [/id/3b6b0e6ae7]
 title: "Villa Borg"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 49.496681, 6.457675 ]

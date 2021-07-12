@@ -1,4 +1,6 @@
 ---
+gre_id: "ddd230a7f8"
+aliases: [/id/ddd230a7f8]
 title: "VIII.4.30."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

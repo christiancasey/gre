@@ -1,4 +1,6 @@
 ---
+gre_id: "515b239960"
+aliases: [/id/515b239960]
 title: "House of the small Peristyle"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 36.838512, 11.115794 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "c3caa55c41"
+aliases: [/id/c3caa55c41]
 title: "House of the West (Maison de l'est)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 37.055611, 10.061305 ]

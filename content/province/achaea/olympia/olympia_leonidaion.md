@@ -1,4 +1,6 @@
 ---
+gre_id: "465f868852"
+aliases: [/id/465f868852]
 title: "Leonidaion"
 date: 2020-07-27T08:54:10-04:00
 latlon: [ 37.637701, 21.628797 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "b5c9a7a301"
+aliases: [/id/b5c9a7a301]
 title: "Suburban Gardens in Camulodunum"
 date: 2020-07-06T16:47:36-04:00
 latlon: [ 51.890074, 0.901087 ]

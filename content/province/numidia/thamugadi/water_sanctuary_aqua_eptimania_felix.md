@@ -1,4 +1,6 @@
 ---
+gre_id: "87cb5112c9"
+aliases: [/id/87cb5112c9]
 title: "Water Sanctuary Aqua Septimiana Felix (Sanctuaire des eaux)"
 date: 2020-11-13T10:39:31-07:00
 latlon: [ 35.485216, 6.468222 ]

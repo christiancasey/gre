@@ -1,4 +1,6 @@
 ---
+gre_id: "ccbf25d8b9"
+aliases: [/id/ccbf25d8b9]
 article-type: "province"
 title: "I.3.25"
 date: 2021-03-19T09:12:36Z

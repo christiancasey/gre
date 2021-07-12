@@ -1,4 +1,6 @@
 ---
+gre_id: "470d20177b"
+aliases: [/id/470d20177b]
 title: "Casa A Graticcio"
 date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]

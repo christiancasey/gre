@@ -1,4 +1,6 @@
 ---
+gre_id: "dd43da939d"
+aliases: [/id/dd43da939d]
 article-type: "province"
 title: "Garden of the Flavian Imperial Palace"
 date: 2021-04-04T21:58:43+02:00

@@ -1,4 +1,6 @@
 ---
+gre_id: "dd8246deb4"
+aliases: [/id/dd8246deb4]
 title: "House of the Aviary (Maison de la Volière)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.857906, 10.331369 ]

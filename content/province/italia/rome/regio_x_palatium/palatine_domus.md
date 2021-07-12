@@ -1,4 +1,6 @@
 ---
+gre_id: "1e129b7e3b"
+aliases: [/id/1e129b7e3b]
 article-type: "province"
 title: "The Late Republican Domus"
 date: 2021-04-03T23:08:29+02:00

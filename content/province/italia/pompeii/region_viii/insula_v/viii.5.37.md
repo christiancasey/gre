@@ -1,4 +1,6 @@
 ---
+gre_id: "5facd77b4b"
+aliases: [/id/5facd77b4b]
 title: "VIII.5.37. Casa delle Pareti Rosse; House of the Fabii"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

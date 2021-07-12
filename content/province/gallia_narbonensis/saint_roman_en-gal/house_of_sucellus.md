@@ -1,4 +1,6 @@
 ---
+gre_id: "8a35ebb898"
+aliases: [/id/8a35ebb898]
 title: "House of Sucellus"
 date: 2020-09-29T00:31:02-02:00
 latlon: [ 42.439512, 3.176623 ]

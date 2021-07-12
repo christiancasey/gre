@@ -1,4 +1,6 @@
 ---
+gre_id: "7ed18f2ec4"
+aliases: [/id/7ed18f2ec4]
 title: "The terrance"
 date: 2020-11-07T10:54:29-07:00
 latlon: [ 0, 0 ]

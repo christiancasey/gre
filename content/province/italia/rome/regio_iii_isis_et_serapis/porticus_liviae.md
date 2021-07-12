@@ -1,4 +1,6 @@
 ---
+gre_id: "18a75adaf8"
+aliases: [/id/18a75adaf8]
 article-type: "province"
 title: "Porticus Liviae"
 date: 2021-03-16T23:53:09-07:00

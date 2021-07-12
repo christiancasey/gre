@@ -1,4 +1,6 @@
 ---
+gre_id: "40b1adacb6"
+aliases: [/id/40b1adacb6]
 title: "Tomb Garden and Cistern of Gallatis, Son of Pythion"
 date: 2020-07-26T10:33:06-04:00
 latlon: [ 38.493967, 22.841425 ]

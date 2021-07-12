@@ -1,4 +1,6 @@
 ---
+gre_id: "c4de63c41a"
+aliases: [/id/c4de63c41a]
 title: "House of the Triclinium"
 date: 2020-10-18T10:00:00-04:00
 latlon: [ 0, 0 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "2ef0db08ba"
+aliases: [/id/2ef0db08ba]
 title: "House of the Dolphins (Maison des dauphins)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290739, 10.704487 ]

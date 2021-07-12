@@ -1,4 +1,6 @@
 ---
+gre_id: "fd7365d9ae"
+aliases: [/id/fd7365d9ae]
 title: "VIII.4.33."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

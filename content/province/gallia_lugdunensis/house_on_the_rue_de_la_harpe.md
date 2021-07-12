@@ -1,4 +1,6 @@
 ---
+gre_id: "0c274588c9"
+aliases: [/id/0c274588c9]
 title: "House on the rue de la Harpe (Domus rue de la Harpe)"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 49.022812, 1.151169 ]

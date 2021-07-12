@@ -1,4 +1,6 @@
 ---
+gre_id: "38533683a4"
+aliases: [/id/38533683a4]
 title: "Various oscilla"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

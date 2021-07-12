@@ -1,4 +1,6 @@
 ---
+gre_id: "408360a2f4"
+aliases: [/id/408360a2f4]
 title: "House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)"
 date: 2020-11-13T10:39:31-07:00
 latlon: [ 35.485216, 6.468222 ]

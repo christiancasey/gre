@@ -1,4 +1,6 @@
 ---
+gre_id: "adf2de1542"
+aliases: [/id/adf2de1542]
 title: "VIII.6.3. (no. 14 at Pompeii)"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

@@ -7,15 +7,18 @@ function displayResults (results, store) {
     // Iterate and build result list elements
     for (const n in results) {
       const item = store[results[n].ref]
-
-      // linked title
-      resultList += '<li><b><a href="' + item.url + '">' + item.title + '</a></b>'
+      resultList += '<article class="list__item post">'
 
       // breadcrumbs
-      resultList += '<br><small>(' + item.breadcrumbs + ')</small>'
+      resultList += '<div class="smallcrumbs">' + item.breadcrumbs + '</div>'
+
+      // linked title
+      resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a></h3>'
 
       // garden description snippet
-      resultList += '<br>' + item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 150) + '...</li>'
+      resultList += item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 179) + '...'
+
+      resultList += '</article>'
     }
     searchResultsList.innerHTML = resultList
   } else {

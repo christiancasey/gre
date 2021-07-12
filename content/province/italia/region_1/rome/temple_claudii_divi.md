@@ -1,4 +1,6 @@
 ---
+gre_id: "f7427554d9"
+aliases: [/id/f7427554d9]
 article-type: "province"
 title: "Gardens of the Temple of Claudii Divi, Rome"
 date: 2021-02-02T10:57:44-07:00

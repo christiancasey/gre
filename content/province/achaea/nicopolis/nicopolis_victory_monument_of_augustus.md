@@ -1,4 +1,6 @@
 ---
+gre_id: "8699336534"
+aliases: [/id/8699336534]
 title: "Victory Monument of Augustus"
 date: 2020-07-27T08:51:24-04:00
 latlon: [ 39.027735, 20.735583 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "08a99fc485"
+aliases: [/id/08a99fc485]
 title: "Herodium Palace Fortress"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.665784, 35.241750 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "70c1807d8f"
+aliases: [/id/70c1807d8f]
 title: "Guest House 2"
 date: 2020-07-27T08:54:29-04:00
 latlon: [ 37.637590, 21.628024 ]

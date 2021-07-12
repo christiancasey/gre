@@ -1,4 +1,6 @@
 ---
+gre_id: "a5f06c13f0"
+aliases: [/id/a5f06c13f0]
 title: "House of the Indian Statuette (I.viii.5)"
 date: 2020-08-08T19:11:52-04:00
 latlon: [ 40.74941, 14.485429 ]

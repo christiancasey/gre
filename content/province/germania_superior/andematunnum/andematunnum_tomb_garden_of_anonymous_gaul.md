@@ -1,4 +1,6 @@
 ---
+gre_id: "6e3a248c40"
+aliases: [/id/6e3a248c40]
 title: "Tomb Garden of Anonymous Gaul in Andematunnum"
 date: 2020-07-13T10:33:04-04:00
 latlon: [ 47.864221, 5.335214 ]

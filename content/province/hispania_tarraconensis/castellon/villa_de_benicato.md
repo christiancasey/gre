@@ -1,4 +1,6 @@
 ---
+gre_id: "aa2406afa4"
+aliases: [/id/aa2406afa4]
 title: "Villa de Benicató"
 date: 2020-11-2
 latlon: [ 39.832943, -0.14602 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "db7d29c09a"
+aliases: [/id/db7d29c09a]
 article-type: "province"
 title: "II.ii.2 (House of D. Octavius Quartio)"
 date: 2021-02-21T13:04:51Z

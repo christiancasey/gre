@@ -1,4 +1,6 @@
 ---
+gre_id: "f1ec9d3af7"
+aliases: [/id/f1ec9d3af7]
 title: "Casa dello Scheletro"
 date: 2020-09-29T12:00:02-05:00
 latlon: [ 40.805843, 14.348058 ]

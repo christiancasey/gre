@@ -1,4 +1,6 @@
 ---
+gre_id: "55b0838dc2"
+aliases: [/id/55b0838dc2]
 title: "I.7.7 House of the Priest Amandus"
 date: 2020-08-08T16:01:37-04:00
 latlon: [ 40.74941, 14.485429 ]

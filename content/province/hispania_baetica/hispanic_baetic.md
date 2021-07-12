@@ -1,4 +1,6 @@
 ---
+gre_id: "23d6491d7d"
+aliases: [/id/23d6491d7d]
 title: "Hispania Baetica"
 date: 2020-10-03T10:00:00-04:00
 latlon: [ 37.317026, -5.060833 ]

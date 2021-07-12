@@ -1,4 +1,6 @@
 ---
+gre_id: "ed9aa10662"
+aliases: [/id/ed9aa10662]
 title: "Tomb Garden of C. Hostius Pamphilus"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

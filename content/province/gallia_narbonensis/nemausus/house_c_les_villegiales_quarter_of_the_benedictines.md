@@ -1,4 +1,6 @@
 ---
+gre_id: "4dd2bd40e6"
+aliases: [/id/4dd2bd40e6]
 title: "House C, Les Villégiales, quarter of the Benedictines"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

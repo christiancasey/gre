@@ -1,4 +1,6 @@
 ---
+gre_id: "91325c865c"
+aliases: [/id/91325c865c]
 title: "House of the Mithra"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 37.487748, -4.459183 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "60e65ce0fc"
+aliases: [/id/60e65ce0fc]
 title: "Acropolis Palace at Jebel Khalid"
 date: 2020-10-08T10:30-04:00
 latlon: [ 36.354311, 38.174169 ]

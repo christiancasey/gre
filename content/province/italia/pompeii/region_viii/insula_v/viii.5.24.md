@@ -1,4 +1,6 @@
 ---
+gre_id: "1703b3de2d"
+aliases: [/id/1703b3de2d]
 title: "VIII.5.24. Casa del Medico"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

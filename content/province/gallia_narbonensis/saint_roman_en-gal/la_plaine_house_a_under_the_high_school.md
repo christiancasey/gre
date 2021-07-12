@@ -1,4 +1,6 @@
 ---
+gre_id: "4f27e20214"
+aliases: [/id/4f27e20214]
 title: "La Plaine, House A under the High School"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "a344820c6d"
+aliases: [/id/a344820c6d]
 title: "Funerary grove of T. Aemilius Vetus"
 date: 2020-07-08T10:39:31-07:00
 latlon: [ 0, 0 ]

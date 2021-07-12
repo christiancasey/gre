@@ -1,4 +1,6 @@
 ---
+gre_id: "296bb7c93b"
+aliases: [/id/296bb7c93b]
 title: "Jericho Twin Palaces of Alexandra Salome and Late Hasmonean Gardens"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853780, 35.433952 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "feb6a7feaa"
+aliases: [/id/feb6a7feaa]
 title: "Rural Villa at Neerhaaren-Rekem"
 date: 2020-07-12T10:54:58-07:00
 latlon: [ 50.907583, 5.686724 ]

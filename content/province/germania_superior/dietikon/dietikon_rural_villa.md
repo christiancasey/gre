@@ -1,4 +1,6 @@
 ---
+gre_id: "040883db1f"
+aliases: [/id/040883db1f]
 title: "Rural Villa in Dietikon"
 date: 2020-07-15T13:09:50-04:00
 latlon: [ 49.214670, 8.015747 ]

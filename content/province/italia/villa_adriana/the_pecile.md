@@ -1,4 +1,6 @@
 ---
+gre_id: "611879dfad"
+aliases: [/id/611879dfad]
 title: "The Pecile (Fig. 1, n. 6)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.941871, 12.774084 ]

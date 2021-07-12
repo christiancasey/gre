@@ -1,4 +1,6 @@
 ---
+gre_id: "53500e1feb"
+aliases: [/id/53500e1feb]
 title: "I.7.10-12/19 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages)"
 date: 2020-08-08T16:18:49-04:00
 latlon: [ 40.74941, 14.485429 ]

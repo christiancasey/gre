@@ -1,4 +1,6 @@
 ---
+gre_id: "05a3200a68"
+aliases: [/id/05a3200a68]
 title: "Villa of Fortunatus"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 0, 0 ]

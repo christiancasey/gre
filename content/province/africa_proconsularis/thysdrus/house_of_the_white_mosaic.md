@@ -1,4 +1,6 @@
 ---
+gre_id: "5c5caec7d3"
+aliases: [/id/5c5caec7d3]
 title: "House of the White Mosaic (Maison des mosaïques blanches)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 35.290828, 10.705481 ]

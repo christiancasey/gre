@@ -1,4 +1,6 @@
 ---
+gre_id: "b134587b51"
+aliases: [/id/b134587b51]
 
 title: "VIII.2.3. House of Championnet II"
 date: 2021-03-22T00:10:10-04:00

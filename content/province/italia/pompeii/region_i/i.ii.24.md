@@ -1,4 +1,6 @@
 ---
+gre_id: "a56ec7e41e"
+aliases: [/id/a56ec7e41e]
 article-type: "province"
 title: "I.2.24 Officina Libraria"
 date: 2021-03-14T17:13:29Z

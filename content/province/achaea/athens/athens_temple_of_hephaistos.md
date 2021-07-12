@@ -1,4 +1,6 @@
 ---
+gre_id: "2b511a037c"
+aliases: [/id/2b511a037c]
 title: "Temple of Hephaistos"
 date: 2020-07-16T09:49:38-04:00
 latlon: [ 37.975646, 23.721409 ]

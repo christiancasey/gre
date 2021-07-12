@@ -1,4 +1,6 @@
 ---
+gre_id: "729da9e010"
+aliases: [/id/729da9e010]
 article-type: "province"
 title: "I.4.5/25 House of the Citharist"
 date: 2021-03-19T09:31:01Z

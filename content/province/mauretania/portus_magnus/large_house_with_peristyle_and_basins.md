@@ -1,4 +1,6 @@
 ---
+gre_id: "ef18d0874b"
+aliases: [/id/ef18d0874b]
 title: "Large House with peristyle and basins"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]

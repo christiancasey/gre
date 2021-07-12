@@ -1,4 +1,6 @@
 ---
+gre_id: "14593f97f9"
+aliases: [/id/14593f97f9]
 title: "Tomb Garden of Aur(elius) Inachus"
 date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]

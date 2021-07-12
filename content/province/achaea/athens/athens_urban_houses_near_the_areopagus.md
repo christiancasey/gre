@@ -1,4 +1,6 @@
 ---
+gre_id: "f95133e363"
+aliases: [/id/f95133e363]
 title: "Urban Houses Near the Areopagus"
 date: 2020-07-16T09:46:56-04:00
 latlon: [ 37.972372, 23.723371 ]

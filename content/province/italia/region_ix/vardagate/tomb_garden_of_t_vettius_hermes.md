@@ -1,4 +1,6 @@
 ---
+gre_id: "fe223e8769"
+aliases: [/id/fe223e8769]
 title: "Tomb garden of T. Vettius Hermes"
 date: 2020-12-10T12:00:02-05:00
 latlon: [ 45.0818, 8.4406 ]

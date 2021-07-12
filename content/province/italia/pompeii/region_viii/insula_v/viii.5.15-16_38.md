@@ -1,4 +1,6 @@
 ---
+gre_id: "cc3148ba5f"
+aliases: [/id/cc3148ba5f]
 title: "VIII.5.15-16/18."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

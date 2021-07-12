@@ -1,4 +1,6 @@
 ---
+gre_id: "f9106fc722"
+aliases: [/id/f9106fc722]
 title: "House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)"
 date: 2020-08-08T19:18:40-04:00
 latlon: [ 40.74941, 14.485429 ]

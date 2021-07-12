@@ -1,4 +1,6 @@
 ---
+gre_id: "f607f64744"
+aliases: [/id/f607f64744]
 title: "VIII.3.21."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

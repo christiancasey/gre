@@ -1,4 +1,6 @@
 ---
+gre_id: "d787a34656"
+aliases: [/id/d787a34656]
 article-type: "province"
 title: "I.6.15 House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus"
 date: 2021-04-05T09:36:47+01:00

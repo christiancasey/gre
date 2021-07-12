@@ -1,4 +1,6 @@
 ---
+gre_id: "6425fe15f5"
+aliases: [/id/6425fe15f5]
 title: "Garden Houses (Case a Giardino)"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.751911781895046, 12.28455095873102 ]

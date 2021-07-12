@@ -1,4 +1,6 @@
 ---
+gre_id: "1a7cf84cd7"
+aliases: [/id/1a7cf84cd7]
 title: "Jericho Herodian First Palace"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853694, 35.434513 ]

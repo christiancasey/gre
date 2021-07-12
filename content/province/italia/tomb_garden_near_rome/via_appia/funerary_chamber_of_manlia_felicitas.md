@@ -1,4 +1,6 @@
 ---
+gre_id: "b773ddb08b"
+aliases: [/id/b773ddb08b]
 title: "Funerary Chamber of Manlia Felicitas"
 date: 2020-11-30T10:54:29-07:00
 latlon: [ 41.853944, 12.517797 ]

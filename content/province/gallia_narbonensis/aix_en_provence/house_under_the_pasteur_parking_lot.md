@@ -1,4 +1,6 @@
 ---
+gre_id: "2d0b7b3d1e"
+aliases: [/id/2d0b7b3d1e]
 title: "House under the Pasteur parking lot"
 date: 2020-11-04T00:20:41-00:00
 latlon: [ 42.439512, 3.176623 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "b267892f1e"
+aliases: [/id/b267892f1e]
 article-type: "province"
 title: "The Severan Complex"
 date: 2021-04-08T02:47:32+02:00

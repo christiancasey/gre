@@ -1,4 +1,6 @@
 ---
+gre_id: "20b65d1c15"
+aliases: [/id/20b65d1c15]
 title: "Tomb garden and baths of P. Caecil(ius) Rufus and Valeria "
 date: 2020-11-2
 latlon: [ 39.678125, -0.277247 ]

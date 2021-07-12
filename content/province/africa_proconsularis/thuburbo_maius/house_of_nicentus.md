@@ -1,4 +1,6 @@
 ---
+gre_id: "c60396b2aa"
+aliases: [/id/c60396b2aa]
 title: "House of Nicentus (Maison de Nicentus)"
 date:
 latlon: [ 36.40112, 9.904448 ]

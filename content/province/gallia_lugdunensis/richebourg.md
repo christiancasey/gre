@@ -1,4 +1,6 @@
 ---
+gre_id: "2f1a2cc53f"
+aliases: [/id/2f1a2cc53f]
 title: "Richebourg (Yvelines) villa de"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.445658, 1.485617 ]

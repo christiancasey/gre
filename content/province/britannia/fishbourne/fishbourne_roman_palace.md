@@ -1,4 +1,6 @@
 ---
+gre_id: "2240426c29"
+aliases: [/id/2240426c29]
 title: "Roman Palace in Fishbourne"
 date: 2020-07-09T18:05:37-04:00
 latlon: [ 50.836765, -0.809853 ]

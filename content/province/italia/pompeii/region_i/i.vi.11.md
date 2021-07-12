@@ -1,4 +1,6 @@
 ---
+gre_id: "e0925df062"
+aliases: [/id/e0925df062]
 article-type: "province"
 title: "I.6.11 Casa Dei Quadretti Teatralli; House of the Calavii; Casa di Casca Longus"
 date: 2021-04-02T09:49:02+01:00

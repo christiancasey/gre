@@ -1,4 +1,6 @@
 ---
+gre_id: "3290f5df6b"
+aliases: [/id/3290f5df6b]
 title: "House R2  (Tang AmpR2 and AmpR3)"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]

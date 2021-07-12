@@ -1,4 +1,6 @@
 ---
+gre_id: "97d9f0dc81"
+aliases: [/id/97d9f0dc81]
 title: "Garden in the Palace Summer part (Fig. 1, n. 14)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.941501, 12.776125 ]

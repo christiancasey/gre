@@ -1,4 +1,6 @@
 ---
+gre_id: "d374ef4670"
+aliases: [/id/d374ef4670]
 title: "NAR 6.4 Enclos Reynaud, House with the semicircular bay, phase I"
 date: 2020-10-29T00:08:08-10:00
 latlon: [ 42.439512, 3.176623 ]

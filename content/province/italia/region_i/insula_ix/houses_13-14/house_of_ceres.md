@@ -1,4 +1,6 @@
 ---
+gre_id: "1f9c41b003"
+aliases: [/id/1f9c41b003]
 title: "House of Ceres; Casa di Cerere (I.ix.13-14)"
 date: 2020-08-10T13:13:23-04:00
 latlon: [ 40.74941, 14.485429 ]

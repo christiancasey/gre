@@ -1,4 +1,6 @@
 ---
+gre_id: "4b7f618619"
+aliases: [/id/4b7f618619]
 article-type: "province"
 title: "I.2.20 Caupona of Innulus"
 date: 2021-03-14T17:00:49Z

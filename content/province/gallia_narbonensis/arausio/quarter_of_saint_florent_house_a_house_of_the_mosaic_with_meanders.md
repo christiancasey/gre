@@ -1,4 +1,6 @@
 ---
+gre_id: "0b3a89deb8"
+aliases: [/id/0b3a89deb8]
 title: "Quarter of Saint-Florent, House A – House of the Mosaic with Meanders"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

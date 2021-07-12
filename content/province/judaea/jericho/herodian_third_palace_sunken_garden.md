@@ -1,4 +1,6 @@
 ---
+gre_id: "9d91dd8940"
+aliases: [/id/9d91dd8940]
 title: "Jericho Herodian Third Palace Sunken Garden"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853621, 35.434882 ]

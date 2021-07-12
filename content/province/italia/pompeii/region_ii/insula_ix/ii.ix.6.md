@@ -1,4 +1,6 @@
 ---
+gre_id: "4b8d3eef52"
+aliases: [/id/4b8d3eef52]
 title: "II.9.6-7 House of Summer Triclinium"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]

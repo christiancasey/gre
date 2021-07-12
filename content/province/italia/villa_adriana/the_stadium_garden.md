@@ -1,4 +1,6 @@
 ---
+gre_id: "a0d7d220fb"
+aliases: [/id/a0d7d220fb]
 title: "The Stadium-garden (Fig. 1, n. 4)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.941169, 12.775543 ]

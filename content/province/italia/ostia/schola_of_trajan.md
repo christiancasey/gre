@@ -1,4 +1,6 @@
 ---
+gre_id: "d74ca61040"
+aliases: [/id/d74ca61040]
 title: "Schola of Trajan"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.752743867143124, 12.286672797879733 ]

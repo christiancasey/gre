@@ -1,4 +1,6 @@
 ---
+gre_id: "1f8deb8e9a"
+aliases: [/id/1f8deb8e9a]
 article-type: "province"
 title: "II.i.12 (House of the Birii; House of the Sibyl)"
 date: 2021-02-21T12:38:47Z

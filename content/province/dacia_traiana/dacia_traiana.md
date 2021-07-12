@@ -1,4 +1,6 @@
 ---
+gre_id: "67d01a709a"
+aliases: [/id/67d01a709a]
 article-type: "province"
 title: "Dacia Traiana"
 date: 2020-07-11T19:24:47-04:00

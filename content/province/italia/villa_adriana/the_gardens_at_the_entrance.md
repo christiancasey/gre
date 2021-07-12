@@ -1,4 +1,6 @@
 ---
+gre_id: "ca3b05d8c7"
+aliases: [/id/ca3b05d8c7]
 title: "The gardens at the entrance of Hadrian's villa (Fig. 1, n. 3)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.942937, 12.774304 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "b6d3a3a094"
+aliases: [/id/b6d3a3a094]
 title: "House of the Columns (La maison aux colonnes)"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 52.055419, -0.795092 ]

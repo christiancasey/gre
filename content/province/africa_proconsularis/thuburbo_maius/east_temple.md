@@ -1,4 +1,6 @@
 ---
+gre_id: "a491f6d729"
+aliases: [/id/a491f6d729]
 title: "East Temple (Temple de l'Est)"
 date:
 latlon: [ 36.400355, 9.903990 ]

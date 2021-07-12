@@ -1,4 +1,6 @@
 ---
+gre_id: "9f5e65f46d"
+aliases: [/id/9f5e65f46d]
 title: "Temple of Caelestis (Temple de Caelestis) "
 date:
 latlon: [ 36.40112, 9.904448 ]

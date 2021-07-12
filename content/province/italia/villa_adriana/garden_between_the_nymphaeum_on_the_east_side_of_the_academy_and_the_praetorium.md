@@ -1,4 +1,6 @@
 ---
+gre_id: "6802d02b5a"
+aliases: [/id/6802d02b5a]
 title: "Garden between the nymphaeum on the E side of the Academy and the Praetorium (Fig. 1, n. 24)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.940614, 12.777282 ]

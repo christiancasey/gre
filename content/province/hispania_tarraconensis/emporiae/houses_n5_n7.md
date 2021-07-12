@@ -1,4 +1,6 @@
 ---
+gre_id: "c508ff1711"
+aliases: [/id/c508ff1711]
 title: "Houses N5 and N7"
 date: 2020-10-18T11:56:31-14:00
 latlon: [ 47.260687, 9.617966 ]

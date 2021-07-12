@@ -1,4 +1,6 @@
 ---
+gre_id: "2b126005e5"
+aliases: [/id/2b126005e5]
 title: "VIII.5.20/17. Caupona"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

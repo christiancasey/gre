@@ -1,4 +1,6 @@
 ---
+gre_id: "2b2200091a"
+aliases: [/id/2b2200091a]
 title: "House of Vestibule with Columns"
 date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]

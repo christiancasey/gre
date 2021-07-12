@@ -1,4 +1,6 @@
 ---
+gre_id: "16874f1e72"
+aliases: [/id/16874f1e72]
 title: "House of the Triumph of Neptune (Maison du Triomphe de Neptune)"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 35.079643, 11.020606 ]

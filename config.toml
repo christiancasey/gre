@@ -31,7 +31,7 @@ summaryLength = 10000
 	[[menu.main]]
 		identifier = "gardens"
 		name = "Gardens"
-		url = "/"
+		url = "/province/"
 		weight = -110
 
 	[[menu.main]]
@@ -74,7 +74,7 @@ title = "GARDENS of the ROMAN EMPIRE"
 	single = "left" # Configure layout for single pages
 	# Enable widgets in given order
 	# widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-	widgets = ["search-lunr", "map", "provinces", "taglist"]
+	widgets = ["search-lunr", "map", "taglist"]
 
 [Params.widgets]
 	recent_num = 2 # Set the number of articles in the "Recent articles" widget

@@ -1,4 +1,6 @@
 ---
+gre_id: "25fff046fb"
+aliases: [/id/25fff046fb]
 article-type: "province"
 title: "Porticus of Pompey"
 date: 2021-04-06T10:00:00-07:00

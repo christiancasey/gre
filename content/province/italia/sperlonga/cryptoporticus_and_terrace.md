@@ -1,4 +1,6 @@
 ---
+gre_id: "2b6f517e74"
+aliases: [/id/2b6f517e74]
 title: "The Gardens of Sperlonga. The peristyle garden "
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.251480, 13.449332 ]

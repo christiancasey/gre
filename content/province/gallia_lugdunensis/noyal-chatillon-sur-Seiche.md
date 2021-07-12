@@ -1,4 +1,6 @@
 ---
+gre_id: "b43a41fef1"
+aliases: [/id/b43a41fef1]
 title: "Villa de Châtillon-sur-Seiche"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.042566, -1.65974 ]

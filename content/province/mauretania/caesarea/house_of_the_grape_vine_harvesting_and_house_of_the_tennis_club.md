@@ -1,4 +1,6 @@
 ---
+gre_id: "d68ec2a87a"
+aliases: [/id/d68ec2a87a]
 title: "House of the Grape Vine Harvesting and House of the Tennis Club (Maison des Vendanges et Maison du Tennis Club)"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]

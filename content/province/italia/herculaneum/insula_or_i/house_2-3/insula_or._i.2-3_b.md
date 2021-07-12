@@ -1,4 +1,6 @@
 ---
+gre_id: "ecd9d67df4"
+aliases: [/id/ecd9d67df4]
 title: "562.Insula or. I.2-3(B)"
 date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "c48d798d77"
+aliases: [/id/c48d798d77]
 title: "House on the Place des Halles (La maison des Halles)"
 date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.007160, 0.198493 ]

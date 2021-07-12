@@ -1,4 +1,6 @@
 ---
+gre_id: "00374bc287"
+aliases: [/id/00374bc287]
 title: "House of the Protomes (Maison des Protomés)"
 date:
 latlon: [ 36.40112, 9.904448 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "2485830a93"
+aliases: [/id/2485830a93]
 title: "The House of the Lion"
 date: 2020-09-29T00:06:02-02:00
 latlon: [ 42.439512, 3.176623 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "4ac5538904"
+aliases: [/id/4ac5538904]
 title: "Sanctuary of Hyernetho"
 date: 2020-07-26T10:46:10-04:00
 latlon: [ 37.633775, 23.159638 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "a231092c3d"
+aliases: [/id/a231092c3d]
 title: "VIII.3.27."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

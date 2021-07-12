@@ -1,4 +1,6 @@
 ---
+gre_id: "a527d97d80"
+aliases: [/id/a527d97d80]
 title: "House of Grotto of Catullus"
 date: 2020-12-10T12:00:02-05:00
 latlon: [ 45.501241, 10.606902 ]

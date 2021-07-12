@@ -1,4 +1,6 @@
 ---
+gre_id: "b8bb57e320"
+aliases: [/id/b8bb57e320]
 title: "II.8.1"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]

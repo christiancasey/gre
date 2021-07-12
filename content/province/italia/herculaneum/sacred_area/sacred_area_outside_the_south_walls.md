@@ -1,4 +1,6 @@
 ---
+gre_id: "ab1e68bef5"
+aliases: [/id/ab1e68bef5]
 title: "Sacred Area Outside the South Walls"
 date: 2020-10-20T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

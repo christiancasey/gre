@@ -1,4 +1,6 @@
 ---
+gre_id: "8abb33d60a"
+aliases: [/id/8abb33d60a]
 article-type: "province"
 title: "Achaea"
 date: 2020-07-20T13:58:53-04:00

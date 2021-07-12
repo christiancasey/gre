@@ -1,4 +1,6 @@
 ---
+gre_id: "4a1a7a53e6"
+aliases: [/id/4a1a7a53e6]
 article-type: "province"
 title: "The Adonea of the Flavian Palace, Palatine"
 date: 2021-04-04T21:59:57+02:00

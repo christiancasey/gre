@@ -1,4 +1,6 @@
 ---
+gre_id: "2173092aab"
+aliases: [/id/2173092aab]
 title: "Caupona of Amarantus Pompeianus (I.ix.11)"
 date: 2020-08-10T12:42:04-04:00
 latlon: [ 40.74941, 14.485429 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "42b3b5cb9c"
+aliases: [/id/42b3b5cb9c]
 title: "Domus de La Marseillaise"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "16ce9bd153"
+aliases: [/id/16ce9bd153]
 title: "Sanctuary of Zeus"
 date: 2020-07-27T08:51:34-04:00
 latlon: [ 37.809521, 22.710403 ]

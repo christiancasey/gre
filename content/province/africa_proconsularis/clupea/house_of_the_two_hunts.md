@@ -1,4 +1,6 @@
 ---
+gre_id: "5c3c939e6d"
+aliases: [/id/5c3c939e6d]
 title: "House of the Two Hunts"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 36.838512, 11.115794 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "b382a81e40"
+aliases: [/id/b382a81e40]
 title: "Baths of La Planchette"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "9c2aeaab58"
+aliases: [/id/9c2aeaab58]
 title: "House of the Masks (Maison des Masques)"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 35.825866, 10.63878 ]

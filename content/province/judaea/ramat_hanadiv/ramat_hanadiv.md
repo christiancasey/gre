@@ -1,4 +1,6 @@
 ---
+gre_id: "84fc60f497"
+aliases: [/id/84fc60f497]
 title: "Ramat Hanadiv"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 32.547145, 34.9361 ]

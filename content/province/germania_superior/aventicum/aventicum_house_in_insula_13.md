@@ -1,4 +1,6 @@
 ---
+gre_id: "a4897ab5a7"
+aliases: [/id/a4897ab5a7]
 title: "House in Insula 13 in Aventicum"
 date: 2020-07-15T10:06:00-04:00
 latlon: [ 46.88008, 7.040710 ]

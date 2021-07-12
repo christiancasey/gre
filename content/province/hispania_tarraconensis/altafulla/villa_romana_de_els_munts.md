@@ -1,4 +1,6 @@
 ---
+gre_id: "28fedbde2d"
+aliases: [/id/28fedbde2d]
 title: "Villa Romana de els Munts"
 date: 2020-10-01T10:39:31-07:00
 latlon: [ 41.136023, 1.385800 ]

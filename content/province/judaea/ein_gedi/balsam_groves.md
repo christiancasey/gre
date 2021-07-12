@@ -1,4 +1,6 @@
 ---
+gre_id: "828f403e58"
+aliases: [/id/828f403e58]
 title: "Ein Gedi Balsam Groves"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.468449, 35.388383 ]

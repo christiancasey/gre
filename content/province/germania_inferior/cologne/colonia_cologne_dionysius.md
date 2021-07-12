@@ -1,4 +1,6 @@
 ---
+gre_id: "0007af5d4a"
+aliases: [/id/0007af5d4a]
 title: "House of Dionyius"
 date: 2020-07-08T20:22:59-07:00
 latlon: [ 50.940671, 6.959908 ]

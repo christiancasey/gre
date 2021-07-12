@@ -1,4 +1,6 @@
 ---
+gre_id: "0708bf7b00"
+aliases: [/id/0708bf7b00]
 title: "La Olmeda  "
 date: 2020-11-2
 latlon: [ 42.482035, -4.736989 ]

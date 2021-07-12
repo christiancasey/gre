@@ -1,4 +1,6 @@
 ---
+gre_id: "93e760d9c3"
+aliases: [/id/93e760d9c3]
 title: "House with Peristyle"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.752743867143124, 12.286672797879733 ]

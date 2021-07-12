@@ -1,4 +1,6 @@
 ---
+gre_id: "f5a5c648d6"
+aliases: [/id/f5a5c648d6]
 title: "House of the Cantaber"
 date: 2020-11-2
 latlon: [ 40.099, -8.4933 ]

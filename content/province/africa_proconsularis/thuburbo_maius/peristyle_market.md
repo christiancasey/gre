@@ -1,4 +1,6 @@
 ---
+gre_id: "88a590cc40"
+aliases: [/id/88a590cc40]
 title: "Peristyle Market (Marché)"
 date:
 latlon: [ 36.40112, 9.904448 ]

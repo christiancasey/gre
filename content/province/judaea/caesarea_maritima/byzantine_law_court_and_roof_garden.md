@@ -1,4 +1,6 @@
 ---
+gre_id: "5c1a7e251d"
+aliases: [/id/5c1a7e251d]
 title: "Caesarea Maritima Byzantine Law Court and Roof Garden"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 32.501237, 34.89151 ]

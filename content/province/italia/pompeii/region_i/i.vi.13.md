@@ -1,4 +1,6 @@
 ---
+gre_id: "c538942469"
+aliases: [/id/c538942469]
 article-type: "province"
 title: "I.6.13 House of Stallus Eros"
 date: 2021-04-02T10:01:33+01:00

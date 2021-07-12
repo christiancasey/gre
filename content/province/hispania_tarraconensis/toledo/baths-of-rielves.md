@@ -1,4 +1,6 @@
 ---
+gre_id: "e1cc46f46d"
+aliases: [/id/e1cc46f46d]
 title: "The so-called \"Baths\" of Rielves"
 date: 2020-11-2
 latlon: [ 39.960815, -4.192941 ]

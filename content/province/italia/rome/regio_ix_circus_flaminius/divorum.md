@@ -1,4 +1,6 @@
 ---
+gre_id: "864b23466d"
+aliases: [/id/864b23466d]
 article-type: "province"
 title: "Divorum"
 date: 2021-03-31T10:00:00-07:00

@@ -1,4 +1,6 @@
 ---
+gre_id: "603e2168c2"
+aliases: [/id/603e2168c2]
 title: "Structures under the Collège Lumière in Vesontio"
 date: 2020-07-20T09:48:09-04:00
 latlon: [ 47.23369, 6.03039 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "d91343fd24"
+aliases: [/id/d91343fd24]
 title: "Great Palestra (Insula or. II.4)"
 date: 2020-10-20T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

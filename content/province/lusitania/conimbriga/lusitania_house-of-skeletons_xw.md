@@ -1,4 +1,6 @@
 ---
+gre_id: "c37c091923"
+aliases: [/id/c37c091923]
 title: "House of the Skeletons"
 date: 2020-11-2
 latlon: [ 40.099, -8.4933 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "847d416007"
+aliases: [/id/847d416007]
 title: "Garden of the triclinium North of the Maritime Theatre (Fig. 1, n. 7)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.942598, 12.775672 ]

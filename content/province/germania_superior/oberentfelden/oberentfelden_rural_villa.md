@@ -1,4 +1,6 @@
 ---
+gre_id: "56c815644f"
+aliases: [/id/56c815644f]
 title: "Rural Villa in Oberentfelden"
 date: 2020-07-16T17:46:47-04:00
 latlon: [ 47.356477, 8.046769 ]

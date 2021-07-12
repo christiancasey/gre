@@ -1,4 +1,6 @@
 ---
+gre_id: "4f203f7918"
+aliases: [/id/4f203f7918]
 title: "I.7.2-3 House of M. Fabius Amandio; House of P. Cornelius Cornthus"
 date: 2020-08-08T10:28:51-04:00
 latlon: [ 40.74941, 14.485429 ]

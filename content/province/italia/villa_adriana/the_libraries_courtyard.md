@@ -1,4 +1,6 @@
 ---
+gre_id: "2b5063bf49"
+aliases: [/id/2b5063bf49]
 title: "The Libraries' Courtyard (Fig. 1, n. 13)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.943021, 12.776021 ]

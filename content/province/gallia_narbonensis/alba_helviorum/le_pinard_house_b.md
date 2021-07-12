@@ -1,4 +1,6 @@
 ---
+gre_id: "be19d05e02"
+aliases: [/id/be19d05e02]
 title: "Le Pinard, House B"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "00c8ac8a9c"
+aliases: [/id/00c8ac8a9c]
 article-type: "province"
 title: "Pacis"
 date: 2021-06-30T14:08:18+02:00

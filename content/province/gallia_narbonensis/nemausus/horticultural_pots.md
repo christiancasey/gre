@@ -1,4 +1,6 @@
 ---
+gre_id: "1c6fcfd3a1"
+aliases: [/id/1c6fcfd3a1]
 title: "Horticultural pots"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

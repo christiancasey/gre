@@ -1,4 +1,6 @@
 ---
+gre_id: "9c24534c32"
+aliases: [/id/9c24534c32]
 title: "Rural Estate in Gatcombe"
 date: 2020-07-10T15:13:29-04:00
 latlon: [ 51.437167, -2.67623 ]

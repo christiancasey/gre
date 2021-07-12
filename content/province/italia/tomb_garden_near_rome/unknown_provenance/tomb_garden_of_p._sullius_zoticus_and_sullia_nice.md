@@ -1,4 +1,6 @@
 ---
+gre_id: "d18542dbe0"
+aliases: [/id/d18542dbe0]
 title: "Tomb Garden of P. Sullius Zoticus and Sullia Nice"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

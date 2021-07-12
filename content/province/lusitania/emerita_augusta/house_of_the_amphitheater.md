@@ -1,4 +1,6 @@
 ---
+gre_id: "d8f4bc0a38"
+aliases: [/id/d8f4bc0a38]
 title: "House of the Amphitheater"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 38.917216, -6.341213 ]

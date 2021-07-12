@@ -1,4 +1,6 @@
 ---
+gre_id: "0fc1cea99b"
+aliases: [/id/0fc1cea99b]
 title: "VIII.2.36/37."
 date: 2021-03-22T00:10:10-04:00
 latlon: [ 40.74841, 14.48730 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "420d0f0968"
+aliases: [/id/420d0f0968]
 article-type: "province"
 title: "Germania Superior"
 date: 2020-07-12T15:52:12-04:00

@@ -1,4 +1,6 @@
 ---
+gre_id: "e0e0054f68"
+aliases: [/id/e0e0054f68]
 title: "House of Neptune (Maison de Neptune)"
 date: 11-9-20
 latlon: [ 36.400355, 9.903990 ]

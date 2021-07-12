@@ -1,4 +1,6 @@
 ---
+gre_id: "5d72e80fc7"
+aliases: [/id/5d72e80fc7]
 title: "House of the Fountains"
 date: 2020-11-2
 latlon: [ 40.099, -8.4933 ]

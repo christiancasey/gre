@@ -1,4 +1,6 @@
 ---
+gre_id: "13d9b19444"
+aliases: [/id/13d9b19444]
 title: "Tomb garden of Publicius Calistus"
 date: 2020-12-14T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]

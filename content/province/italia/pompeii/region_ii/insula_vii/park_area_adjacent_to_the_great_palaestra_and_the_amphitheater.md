@@ -1,4 +1,6 @@
 ---
+gre_id: "940af55b8a"
+aliases: [/id/940af55b8a]
 title: "Park Area Adjacent to the Great Palaestra and the Amphitheater"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.75089, 14.49466 ]

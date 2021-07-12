@@ -1,4 +1,6 @@
 ---
+gre_id: "88f1bb6a78"
+aliases: [/id/88f1bb6a78]
 article-type: "province"
 title: "Domus Aurea"
 date: 2021-03-16T23:02:04-07:00

@@ -1,4 +1,6 @@
 ---
+gre_id: "d23ef39a54"
+aliases: [/id/d23ef39a54]
 title: "Jericho Herodian Third Palace Corinthian Peristyle"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 31.853621, 35.434882 ]

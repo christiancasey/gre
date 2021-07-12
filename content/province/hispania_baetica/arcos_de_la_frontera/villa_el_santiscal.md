@@ -1,4 +1,6 @@
 ---
+gre_id: "20d40b673f"
+aliases: [/id/20d40b673f]
 title: "Villa el Santiscal"
 date: 2020-10-04T21:00:00-04:00
 latlon: [ 36.765569, -5.771836 ]

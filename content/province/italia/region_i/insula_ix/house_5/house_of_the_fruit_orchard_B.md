@@ -1,4 +1,6 @@
 ---
+gre_id: "3d2a3deab8"
+aliases: [/id/3d2a3deab8]
 title: "House of the Fruit Orchard; Casa del Frutteto; Dei Cubicoli Floreali (I.ix.5) B"
 date: 2020-08-10T11:22:20-04:00
 latlon: [ 40.74941, 14.485429 ]

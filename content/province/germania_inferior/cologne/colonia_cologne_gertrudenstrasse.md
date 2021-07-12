@@ -1,4 +1,6 @@
 ---
+gre_id: "95e33081e5"
+aliases: [/id/95e33081e5]
 title: "Urban House on Gertrudenstrasse"
 date: 2020-07-12T10:51:27-07:00
 latlon: [ 50.940671, 6.959908 ]

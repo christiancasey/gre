@@ -1,4 +1,6 @@
 ---
+gre_id: "ba78007c9e"
+aliases: [/id/ba78007c9e]
 
 title: "VIII.2.18-20."
 date: 2021-03-22T00:10:10-04:00

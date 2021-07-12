@@ -1,4 +1,6 @@
 ---
+gre_id: "217200fd4f"
+aliases: [/id/217200fd4f]
 article-type: "province"
 title: "I.6.7 Fullonica of Stephanus"
 date: 2021-04-02T09:35:43+01:00

@@ -1,4 +1,6 @@
 ---
+gre_id: "abeab7d464"
+aliases: [/id/abeab7d464]
 title: "Enclos Reynaud, Combination of House with the large opus sectile with House of the semicircular bay"
 date: 2020-10-29T00:08:08-10:00
 latlon: [ 42.439512, 3.176623 ]

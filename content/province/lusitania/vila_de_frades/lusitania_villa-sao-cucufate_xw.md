@@ -1,4 +1,6 @@
 ---
+gre_id: "45ba2b3b74"
+aliases: [/id/45ba2b3b74]
 title: "Villa Sao Cucufate"
 date: 2020-11-2
 latlon: [ 38.223820, -7.845952 ]

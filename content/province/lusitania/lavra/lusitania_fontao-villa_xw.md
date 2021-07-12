@@ -1,4 +1,6 @@
 ---
+gre_id: "2602fe8dc1"
+aliases: [/id/2602fe8dc1]
 title: "Fontao Villa"
 date: 2020-11-2
 latlon: [ 0, 0 ]

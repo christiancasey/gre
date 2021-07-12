@@ -1,4 +1,6 @@
 ---
+gre_id: "e041f5959d"
+aliases: [/id/e041f5959d]
 title: "Rural Villa in Wiesbaden-Biebrich"
 date: 2020-07-20T10:18:48-04:00
 latlon: [ 50.044849, 8.241041 ]

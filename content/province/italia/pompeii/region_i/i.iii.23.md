@@ -1,4 +1,6 @@
 ---
+gre_id: "fc21246bea"
+aliases: [/id/fc21246bea]
 article-type: "province"
 title: "I.3.23 House of Actius Anicetus"
 date: 2021-03-18T11:14:26Z

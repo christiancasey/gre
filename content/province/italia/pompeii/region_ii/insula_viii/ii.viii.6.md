@@ -1,4 +1,6 @@
 ---
+gre_id: "f6934aeede"
+aliases: [/id/f6934aeede]
 title: "II.8.6 House of the Garden of Hercules"
 date: 2020-12-10T00:10:10-04:00
 latlon: [ 40.750870, 14.493866 ]

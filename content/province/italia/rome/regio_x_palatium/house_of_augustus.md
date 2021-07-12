@@ -1,4 +1,6 @@
 ---
+gre_id: "2f6b1e398d"
+aliases: [/id/2f6b1e398d]
 article-type: "province"
 title: "House of Augustus"
 date: 2021-04-04T00:37:34+02:00

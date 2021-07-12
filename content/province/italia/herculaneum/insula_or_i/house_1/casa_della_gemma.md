@@ -1,4 +1,6 @@
 ---
+gre_id: "3874a10bf6"
+aliases: [/id/3874a10bf6]
 title: "Casa della Gemma (Insula or. I.1)"
 date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]

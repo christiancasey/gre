@@ -1,4 +1,6 @@
 ---
+gre_id: "6a6ac9d69b"
+aliases: [/id/6a6ac9d69b]
 title: "Villa of Herodes Atticus"
 date: 2020-07-20T14:24:59-04:00
 latlon: [ 37.377923, 22.656854 ]

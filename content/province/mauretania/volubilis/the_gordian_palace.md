@@ -1,4 +1,6 @@
 ---
+gre_id: "858cfbe95d"
+aliases: [/id/858cfbe95d]
 title: "The Gordian Palace (Le palais dit de Gordien)"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]

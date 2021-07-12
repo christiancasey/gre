@@ -1,4 +1,6 @@
 ---
+gre_id: "9afc81b032"
+aliases: [/id/9afc81b032]
 title: "House of the Bust of Marcus Aurelius"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 36.838512, 11.115794 ]

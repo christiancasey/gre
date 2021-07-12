@@ -1,4 +1,6 @@
 ---
+gre_id: "58d35fd6db"
+aliases: [/id/58d35fd6db]
 title: "Rural Villa in Orbe"
 date: 2020-07-17T13:44:42-04:00
 latlon: [ 46.744280, 6.536848 ]

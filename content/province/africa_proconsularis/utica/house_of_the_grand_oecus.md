@@ -1,4 +1,6 @@
 ---
+gre_id: "e738423524"
+aliases: [/id/e738423524]
 title: "House of the Grand Oecus (Maison du grand oecus)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 37.055611, 10.061305 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "fbde5b398f"
+aliases: [/id/fbde5b398f]
 title: "House of Venus (Maison de Venus)"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

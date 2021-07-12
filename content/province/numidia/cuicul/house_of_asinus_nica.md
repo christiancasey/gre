@@ -1,4 +1,6 @@
 ---
+gre_id: "6e51ae92a0"
+aliases: [/id/6e51ae92a0]
 title: "House of Asinus Nica, Central District (Maison de l’Ane, quartier central)"
 date: 2020-12-20T10:00:00-04:00
 latlon: [ 36.317690, 5.736683 ]

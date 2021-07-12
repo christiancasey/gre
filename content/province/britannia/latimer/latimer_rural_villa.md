@@ -1,4 +1,6 @@
 ---
+gre_id: "63f24ff3d5"
+aliases: [/id/63f24ff3d5]
 title: "Rural Villa in Latimer"
 date: 2020-07-11T11:20:32-04:00
 latlon: [ 51.679234, -0.549776 ]

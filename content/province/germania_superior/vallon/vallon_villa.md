@@ -1,4 +1,6 @@
 ---
+gre_id: "a20916db0f"
+aliases: [/id/a20916db0f]
 title: "Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)"
 date: 2020-07-17T17:12:15-04:00
 latlon: [ 49.214670, 8.015747 ]

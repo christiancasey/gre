@@ -1,4 +1,6 @@
 ---
+gre_id: "b8e25a29e3"
+aliases: [/id/b8e25a29e3]
 title: "Villa of the Bath"
 date: 2020-12-10T12:00:02-05:00
 latlon: [ 45.697547, 13.737716 ]

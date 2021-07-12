@@ -1,4 +1,6 @@
 ---
+gre_id: "9fcfa88527"
+aliases: [/id/9fcfa88527]
 title: "Sacred Grove at Daphne"
 date: 2020-10-08T10:30-04:00
 latlon: [ 36.222551, 36.183214 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "934a73b6ab"
+aliases: [/id/934a73b6ab]
 title: "Sanctuary"
 date: 2020-10-15T10:00:00-04:00
 latlon: [ 37.713343, -5.740734 ]

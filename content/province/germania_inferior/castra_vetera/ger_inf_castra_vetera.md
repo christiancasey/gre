@@ -1,4 +1,6 @@
 ---
+gre_id: "ef75706a87"
+aliases: [/id/ef75706a87]
 title: "Legionary Houses at Castra Vetera (Germania Inferior)"
 date: 2020-07-12T10:57:44-07:00
 latlon: [ 51.646389, 6.469989 ]

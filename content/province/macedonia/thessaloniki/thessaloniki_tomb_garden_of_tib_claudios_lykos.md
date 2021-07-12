@@ -1,4 +1,6 @@
 ---
+gre_id: "61573de869"
+aliases: [/id/61573de869]
 title: "Tomb Garden of Ti. Claudios Lykos"
 date: 2020-07-16T09:07:30-04:00
 latlon: [ 40.628342, 22.952885 ]

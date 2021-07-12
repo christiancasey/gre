@@ -1,4 +1,6 @@
 ---
+gre_id: "1d89c56774"
+aliases: [/id/1d89c56774]
 article-type: "province"
 title: "The Palatine 'Stadium'"
 date: 2021-04-08T02:47:06+02:00

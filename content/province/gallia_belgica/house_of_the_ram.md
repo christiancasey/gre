@@ -1,4 +1,6 @@
 ---
+gre_id: "90aacd419f"
+aliases: [/id/90aacd419f]
 title: "House of the Ram (La Maison au Bélier)"
 date: 2020-11-22T10:39:31-07:00
 latlon: [ 49.254081, 4.032937 ]

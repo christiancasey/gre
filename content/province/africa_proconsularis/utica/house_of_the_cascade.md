@@ -1,4 +1,6 @@
 ---
+gre_id: "e44b3e3b84"
+aliases: [/id/e44b3e3b84]
 title: "House of the Cascade (Maison de la Cascade)"
 date: 2020-09-29T09:49:36-04:00
 latlon: [ 37.055611, 10.061305 ]

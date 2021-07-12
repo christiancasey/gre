@@ -1,4 +1,6 @@
 ---
+gre_id: "a8ffc665cb"
+aliases: [/id/a8ffc665cb]
 article-type: "province"
 title: "Thermae Agrippae"
 date: 2021-03-31T10:58:08-07:00

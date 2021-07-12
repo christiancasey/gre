@@ -1,4 +1,6 @@
 ---
+gre_id: "b758b14e74"
+aliases: [/id/b758b14e74]
 title: "House of the Black and White Triclinium (Maison du triclinium en noir et blanc)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.392591, 10.563067 ]

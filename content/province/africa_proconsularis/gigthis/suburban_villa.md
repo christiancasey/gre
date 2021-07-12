@@ -1,4 +1,6 @@
 ---
+gre_id: "cf4ea335a0"
+aliases: [/id/cf4ea335a0]
 title: "Suburban Villa"
 date: 2020-10-01T07:38:05-07:00
 latlon: [ 33.532711, 10.674151 ]

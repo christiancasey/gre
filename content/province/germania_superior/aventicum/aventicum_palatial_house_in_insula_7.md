@@ -1,4 +1,6 @@
 ---
+gre_id: "fe2902e7d3"
+aliases: [/id/fe2902e7d3]
 title: "Palatial House in Insula 7 in Aventicum"
 date: 2020-07-14T14:48:37-04:00
 latlon: [ 46.88008, 7.040710 ]

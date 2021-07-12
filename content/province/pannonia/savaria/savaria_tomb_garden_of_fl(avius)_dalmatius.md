@@ -1,4 +1,6 @@
 ---
+gre_id: "ad694d408b"
+aliases: [/id/ad694d408b]
 title: "Tomb Garden of Fl(avius) Dalmatius in Savaria"
 date: 2020-07-22T09:49:36-04:00
 latlon: [ 47.235142, 16.62192 ]

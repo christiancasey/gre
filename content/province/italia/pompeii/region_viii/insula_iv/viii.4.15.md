@@ -1,4 +1,6 @@
 ---
+gre_id: "bbe1da0ca1"
+aliases: [/id/bbe1da0ca1]
 title: "VIII.4.15. House of C. Cornelius Rufus; House of C. Cornelius Adiutor"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

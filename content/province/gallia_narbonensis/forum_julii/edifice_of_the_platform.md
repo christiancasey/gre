@@ -1,4 +1,6 @@
 ---
+gre_id: "33a2a65f89"
+aliases: [/id/33a2a65f89]
 title: "Edifice of the Platform"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

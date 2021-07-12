@@ -1,4 +1,6 @@
 ---
+gre_id: "9d2ae5751f"
+aliases: [/id/9d2ae5751f]
 title: "House of the Sundial"
 date: 2020-10-04T10:00:00-04:00
 latlon: [ 0, 0 ]

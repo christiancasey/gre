@@ -1,4 +1,6 @@
 ---
+gre_id: "857e5462b7"
+aliases: [/id/857e5462b7]
 title: "House of the Silver Bust, La Vilasse Quarter"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

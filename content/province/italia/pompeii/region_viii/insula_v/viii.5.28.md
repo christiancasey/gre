@@ -1,4 +1,6 @@
 ---
+gre_id: "3df879a754"
+aliases: [/id/3df879a754]
 title: "VIII.5.28. Casa della Calce; Casa dell’Imperatore Francesco II"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

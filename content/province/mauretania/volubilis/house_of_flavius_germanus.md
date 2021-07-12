@@ -1,4 +1,6 @@
 ---
+gre_id: "fa9dfb2850"
+aliases: [/id/fa9dfb2850]
 title: "House of Flavius Germanus (La maison de Flavius Germanicus)"
 date: 2020-11-16T10:00:00-04:00
 latlon: [ 0, 0 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "eaee25d9ed"
+aliases: [/id/eaee25d9ed]
 article-type: "province"
 title: "Domus Flavia, Upper Peristyle and Nymphaea"
 date: 2021-04-08T02:46:24+02:00

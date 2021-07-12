@@ -1,4 +1,6 @@
 ---
+gre_id: "26e9d8a183"
+aliases: [/id/26e9d8a183]
 title: "Rustic villa at Blankenheim-Hülchrath"
 date: 2020-07-08T10:39:31-07:00
 latlon: [ 51.606474, 5.794368 ]

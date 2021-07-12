@@ -1,4 +1,6 @@
 ---
+gre_id: "abf180236c"
+aliases: [/id/abf180236c]
 title: "Germania Inferior"
 date: 2020-07-12T10:26:59-07:00
 latlon: [ 51.606474, 5.794368 ]

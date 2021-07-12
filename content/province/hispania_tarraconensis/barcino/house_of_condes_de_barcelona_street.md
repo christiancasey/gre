@@ -1,4 +1,6 @@
 ---
+gre_id: "22a357a9be"
+aliases: [/id/22a357a9be]
 title: "House of Condes de Barcelona Street"
 date: 2020-10-18T12:40:31-13:00
 latlon: [ 41.385, 2.173611 ]

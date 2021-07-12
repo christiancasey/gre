@@ -1,4 +1,6 @@
 ---
+gre_id: "89b7a7e741"
+aliases: [/id/89b7a7e741]
 title: "Schola of the Collegium Fabrum"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 41.116892, 1.258337 ]

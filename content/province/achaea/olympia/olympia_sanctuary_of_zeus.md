@@ -1,4 +1,6 @@
 ---
+gre_id: "b5400dccdb"
+aliases: [/id/b5400dccdb]
 title: "Sanctuary of Zeus"
 date: 2020-07-27T08:52:42-04:00
 latlon: [ 37.637939, 21.630256 ]

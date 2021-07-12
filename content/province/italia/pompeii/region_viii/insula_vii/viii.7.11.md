@@ -1,4 +1,6 @@
 ---
+gre_id: "47d674ad67"
+aliases: [/id/47d674ad67]
 title: "VIII.7.11."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

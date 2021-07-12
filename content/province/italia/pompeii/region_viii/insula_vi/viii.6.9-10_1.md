@@ -1,4 +1,6 @@
 ---
+gre_id: "e7fd2f5bf2"
+aliases: [/id/e7fd2f5bf2]
 title: "VIII.6.9-10/1. House and Bakery"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

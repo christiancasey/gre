@@ -1,4 +1,6 @@
 ---
+gre_id: "50dac00f2c"
+aliases: [/id/50dac00f2c]
 title: "House Formigé Square - 2 phases"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

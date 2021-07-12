@@ -1,4 +1,6 @@
 ---
+gre_id: "9a0462febf"
+aliases: [/id/9a0462febf]
 article-type: "province"
 title: "II.i.2 (House of Aemilius Primio and Aemiluis Saturninus)"
 date: 2021-02-19T17:12:19Z

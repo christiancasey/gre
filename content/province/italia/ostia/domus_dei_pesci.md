@@ -1,4 +1,6 @@
 ---
+gre_id: "0c51c2cecb"
+aliases: [/id/0c51c2cecb]
 title: "Garden beneath the House of the Fishes (Domus dei Pesci)"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.75282967075262, 12.28930212931829 ]

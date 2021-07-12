@@ -1,4 +1,6 @@
 ---
+gre_id: "93bd6acd13"
+aliases: [/id/93bd6acd13]
 article-type: "province"
 title: "I.4.9"
 date: 2021-03-19T12:38:47Z

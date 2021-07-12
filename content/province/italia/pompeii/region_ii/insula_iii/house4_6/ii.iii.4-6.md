@@ -1,4 +1,6 @@
 ---
+gre_id: "cdfd80b73c"
+aliases: [/id/cdfd80b73c]
 title: "II.3.4-6"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]

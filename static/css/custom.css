@@ -35,8 +35,41 @@ body {
   font-size: 10.5pt;
 }
 
-a.nav {
-  color: #000;
+nav.breadcrumbs {
+  font-weight: bold;
+  font-size: 130%;
+  padding: 0 0.5em;
+  margin-bottom: 0.5em;
+  background: #262;
+  color: #fff;
+}
+
+nav.breadcrumbs a {
+  color: #fff;
+}
+
+ul.subdivisions {
+  margin: 0 0 0.5em;
+  padding: 0 3em 0.5em;
+  border-bottom: 1px solid #888;
+}
+
+ul.subdivisions li {
+  font-weight: bold;
+}
+
+.count {
+  margin: 1em 0;
+}
+
+article.list__item {
+  padding: 0;
+  margin: 0 0 1em 0;
+  border: 0;
+}
+
+.list__header {
+  margin: 0;
 }
 
 #map {
@@ -55,16 +88,18 @@ a.nav {
 }
 
 #search-results-list {
-	margin: 1em;
+	margin: 1em 0;
 	list-style: none;
 }
 
 #search-results-list li {
-	margin: 1em 1em;
+	margin: 1em 0;
 }
 
-#search-results-list small {
-	color: #666;
+.smallcrumbs {
+	color: #262;
+  font-size: 90%;
+  margin: 0;
 }
 
 .widget a {
@@ -76,6 +111,10 @@ a.nav {
   padding: 1em;
   background: #eee;
   border: 1px solid #ccc;
+}
+
+.permalink {
+  margin: 0.5em 0;
 }
 
 .draft {

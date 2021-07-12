@@ -1,4 +1,6 @@
 ---
+gre_id: "554c97f02d"
+aliases: [/id/554c97f02d]
 title: "House of the Fishpond"
 date: 2020-09-29T00:31:02-02:00
 latlon: [ 42.439512, 3.176623 ]

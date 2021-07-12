@@ -3,6 +3,12 @@
 	<article class="post{{ if .Params.draft }} draft{{ end }}">
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
+			{{- if .Params.gre_id }}
+			  {{ $url := print .Site.BaseURL "id/" .Params.gre_id }}
+				<div class='permalink'>
+					Permalink: <a href="{{ $url }}">{{ $url }}</a>
+				</div>
+			{{- end }}
 			{{- with .Params.lead }}
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}

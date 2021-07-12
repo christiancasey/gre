@@ -1,4 +1,6 @@
 ---
+gre_id: "530e6055cb"
+aliases: [/id/530e6055cb]
 title: "The sanctuary of the Victories of Caracalla"
 date: 11-10-20
 latlon: [ 36.422473, 9.218866 ]

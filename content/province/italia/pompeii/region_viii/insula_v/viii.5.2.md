@@ -1,4 +1,6 @@
 ---
+gre_id: "05618c615c"
+aliases: [/id/05618c615c]
 title: "VIII.5.2. Casa del Gallo; House of the Cock"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

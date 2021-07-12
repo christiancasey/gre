@@ -1,4 +1,6 @@
 ---
+gre_id: "350811178b"
+aliases: [/id/350811178b]
 title: "Private Houses at Antioch"
 date: 2020-10-08T10:30-04:00
 latlon: [ 36.222551, 36.183214 ]

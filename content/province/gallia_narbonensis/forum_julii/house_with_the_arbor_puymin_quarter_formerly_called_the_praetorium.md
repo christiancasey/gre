@@ -1,4 +1,6 @@
 ---
+gre_id: "28e7c5cd94"
+aliases: [/id/28e7c5cd94]
 title: "House with the Arbor, Puymin Quarter, Formerly called the Praetorium"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

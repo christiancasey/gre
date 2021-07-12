@@ -1,4 +1,6 @@
 ---
+gre_id: "78c22fa220"
+aliases: [/id/78c22fa220]
 title: "Rural Villa in Hummetroth"
 date: 2020-07-16T11:47:11-04:00
 latlon: [ 49.214670, 8.015747 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "27ac79ecb5"
+aliases: [/id/27ac79ecb5]
 title: "VIII.7.28. Temple of Isis"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

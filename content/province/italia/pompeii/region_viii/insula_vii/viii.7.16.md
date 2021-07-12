@@ -1,4 +1,6 @@
 ---
+gre_id: "31fa330066"
+aliases: [/id/31fa330066]
 title: "VIII.7.16. Gladiatorial Barracks; Ludus Gladiatorius; Schola Gladiatoria"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

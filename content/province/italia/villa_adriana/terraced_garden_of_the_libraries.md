@@ -1,4 +1,6 @@
 ---
+gre_id: "f563fc2fb8"
+aliases: [/id/f563fc2fb8]
 title: "Terraced garden of the Libraries (Fig. 1, n. 8)"
 date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.942614, 12.776359 ]

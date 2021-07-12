@@ -1,4 +1,6 @@
 ---
+gre_id: "94ca12626e"
+aliases: [/id/94ca12626e]
 title: "VIII.5.39. House of Acceptus and Euhodia"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

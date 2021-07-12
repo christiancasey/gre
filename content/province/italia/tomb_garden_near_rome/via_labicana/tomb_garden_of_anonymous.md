@@ -1,4 +1,6 @@
 ---
+gre_id: "289bfad426"
+aliases: [/id/289bfad426]
 title: "Tomb Garden of Anonymous"
 date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]

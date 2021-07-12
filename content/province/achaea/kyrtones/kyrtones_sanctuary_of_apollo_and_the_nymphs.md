@@ -1,4 +1,6 @@
 ---
+gre_id: "21eea814e6"
+aliases: [/id/21eea814e6]
 title: "Sanctuary of Apollo and the Nymphs"
 date: 2020-07-26T12:25:33-04:00
 latlon: [ 38.585688, 23.044957 ]

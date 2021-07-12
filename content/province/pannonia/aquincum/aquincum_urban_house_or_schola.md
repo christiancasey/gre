@@ -1,4 +1,6 @@
 ---
+gre_id: "9eef0a86c1"
+aliases: [/id/9eef0a86c1]
 title: "Urban House or Schola in Aquincum"
 date: 2020-07-21T16:44:26-04:00
 latlon: [ 0, 0 ]

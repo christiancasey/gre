@@ -1,4 +1,6 @@
 ---
+gre_id: "f6a82bdba9"
+aliases: [/id/f6a82bdba9]
 title: "Neoplatonic School Near the Areopagus"
 date: 2020-07-20T11:39:30-04:00
 latlon: [ 37.972372, 23.723371 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "db811e8298"
+aliases: [/id/db811e8298]
 title: "Suburban Villa"
 date: 2020-12-14T00:08:52-00:00
 latlon: [ 46.201961, 6.143798 ]

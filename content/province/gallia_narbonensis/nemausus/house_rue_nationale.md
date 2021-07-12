@@ -1,4 +1,6 @@
 ---
+gre_id: "0481cfbfef"
+aliases: [/id/0481cfbfef]
 title: "House, rue Nationale"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

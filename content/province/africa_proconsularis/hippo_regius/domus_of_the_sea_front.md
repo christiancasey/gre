@@ -1,4 +1,6 @@
 ---
+gre_id: "6c0b726bed"
+aliases: [/id/6c0b726bed]
 title: "Domus of the Sea Front (Villa du front de mer)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.882478, 7.751272 ]

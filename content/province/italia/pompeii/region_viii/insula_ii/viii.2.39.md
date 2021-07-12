@@ -1,4 +1,6 @@
 ---
+gre_id: "62fe598b83"
+aliases: [/id/62fe598b83]
 
 title: "VIII.2.39. House of Emperor Joseph II"
 date: 2021-03-22T00:10:10-04:00

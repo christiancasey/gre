@@ -1,4 +1,6 @@
 ---
+gre_id: "40f9550565"
+aliases: [/id/40f9550565]
 title: "Villa de Hinojal"
 date: 2020-11-2
 latlon: [ 0, 0 ]

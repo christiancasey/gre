@@ -1,4 +1,6 @@
 ---
+gre_id: "0331f68098"
+aliases: [/id/0331f68098]
 title: "II.2.4 House of Messius Ampliatus"
 date: 2020-11-29T10:54:29-07:00
 latlon: [ 40.7517, 14.4925 ]

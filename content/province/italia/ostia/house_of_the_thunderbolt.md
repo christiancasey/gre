@@ -1,4 +1,6 @@
 ---
+gre_id: "ba47943440"
+aliases: [/id/ba47943440]
 title: "House of the Thunderbolt (Domus Fulminata)"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.750839672367256, 12.285040670892728 ]

@@ -1,4 +1,6 @@
 ---
+gre_id: "93783c8ff0"
+aliases: [/id/93783c8ff0]
 title: "Aix, Jardins de Grassi, House with the large peristyle"
 date: 2020-10-29T00:08:08-10:00
 latlon: [ 42.439512, 3.176623 ]

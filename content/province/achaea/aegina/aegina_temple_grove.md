@@ -1,4 +1,6 @@
 ---
+gre_id: "ac3df48e02"
+aliases: [/id/ac3df48e02]
 title: "Temple Grove"
 date: 2020-07-16T09:45:49-04:00
 latlon: [ 37.739227, 23.518981 ]

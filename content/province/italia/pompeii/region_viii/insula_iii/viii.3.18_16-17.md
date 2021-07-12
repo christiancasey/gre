@@ -1,4 +1,6 @@
 ---
+gre_id: "661c3890ed"
+aliases: [/id/661c3890ed]
 title: "VIII.3.18/16-17. House of Diana"
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

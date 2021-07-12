@@ -1,4 +1,6 @@
 ---
+gre_id: "ce9ce2060f"
+aliases: [/id/ce9ce2060f]
 title: "House of the Salsamenta (Usine de salaison)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.438789, 10.717447 ]

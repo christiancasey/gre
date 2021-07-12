@@ -1,4 +1,6 @@
 ---
+gre_id: "17b3fd9e28"
+aliases: [/id/17b3fd9e28]
 title: "VIII.7.26-27."
 date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]

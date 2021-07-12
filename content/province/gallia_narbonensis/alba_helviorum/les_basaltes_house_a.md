@@ -1,4 +1,6 @@
 ---
+gre_id: "57c4491e97"
+aliases: [/id/57c4491e97]
 title: "Les Basaltes, House A"
 date: 2020-11-14T00:12:43-00:00
 latlon: [ 42.439512, 3.176623 ]

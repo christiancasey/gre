@@ -1,4 +1,6 @@
 ---
+gre_id: "0f8c1a7d6c"
+aliases: [/id/0f8c1a7d6c]
 title: "Niederzier Hambach 59"
 date: 2020-07-12T10:55:45-07:00
 latlon: [ 50.897592, 6.445 ]

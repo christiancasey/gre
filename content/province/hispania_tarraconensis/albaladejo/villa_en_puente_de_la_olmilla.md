@@ -1,4 +1,6 @@
 ---
+gre_id: "3153042981"
+aliases: [/id/3153042981]
 title: "Villa en Puente de la Olmilla"
 date: 2020-10-08T10:39:31-07:00
 latlon: [ 38.602777, -2.765277 ]

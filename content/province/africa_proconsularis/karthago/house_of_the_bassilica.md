@@ -1,4 +1,6 @@
 ---
+gre_id: "4c3dd0c894"
+aliases: [/id/4c3dd0c894]
 title: "House of the Bassilica (Maison de la Bassilica)"
 date: 2020-10-06T10:39:31-07:00
 latlon: [ 36.858123, 10.331001 ]

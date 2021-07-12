@@ -1,7 +1,7 @@
 {{ define "main" }}
-<div id = "search-results-summary" style='padding:1em 0'></div>
-<ul id="search-results-list">
-  <li>searching...</li>
-</ul>
+<div id = "search-results-summary" class="style='padding:1em 0"></div>
+<main class="main list" id="search-results-list">
+  <p>searching...</p>
+</main>
 {{ partial "search-index.html" . }}
 {{ end }}

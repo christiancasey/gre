@@ -1,4 +1,6 @@
 ---
+gre_id: "8392cb4b65"
+aliases: [/id/8392cb4b65]
 title: "Rural Villa in Frocester Court"
 date: 2020-07-10T08:32:55-04:00
 latlon: [ 51.726937, -2.311905 ]

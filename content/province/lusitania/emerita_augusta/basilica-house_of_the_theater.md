@@ -1,4 +1,6 @@
 ---
+gre_id: "16a870beb6"
+aliases: [/id/16a870beb6]
 title: "Basilica-House of the Theater"
 date: 2020-09-30T11:20:32-04:00
 latlon: [ 38.917216, -6.341213 ]

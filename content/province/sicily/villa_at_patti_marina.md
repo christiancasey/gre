@@ -1,4 +1,6 @@
 ---
+gre_id: "24ecdfe9e7"
+aliases: [/id/24ecdfe9e7]
 title: "Villa at Patti Marina"
 date: 2020-10-01T11:30:00-05:00
 latlon: [ 38.192251, 15.556634 ]

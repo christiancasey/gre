@@ -1,4 +1,6 @@
 ---
+gre_id: "a81d577cb3"
+aliases: [/id/a81d577cb3]
 title: "Piazzale della Corporazioni"
 date: 2021-02-08T19:00:00-08:00
 latlon: [ 41.756389, 12.291007 ]
